@@ -62,4 +62,4 @@ python manage.py migrate
 If you encounter issues during installation or usage, refer to the Troubleshooting section in the documentation.
 
 ### Support
-For any questions, issues, or clarifications, please contact me!!
+For any questions, issues, or clarifications, please contact me fetih.tekin.7@gmail.com !!!
